@@ -9,7 +9,7 @@
 
 - Getting Route Params
 
-- Rendering a Map with Google Maps
+- Rendering a Map (Had trouble getting API)
 
 - Adding Input Validation
 
