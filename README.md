@@ -9,8 +9,6 @@
 
 - Getting Route Params
 
-- Rendering a Map (Had trouble getting API)
-
 - Adding Input Validation
 
 - Managing Form-wide State
